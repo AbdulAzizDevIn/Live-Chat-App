@@ -1,4 +1,4 @@
-import SideBarWrapper from "@/components/ui/shared/sidebar/SideBarWrapper"
+import SideBarWrapper from "@/components/shared/sidebar/SideBarWrapper"
 
 
 

@@ -3,7 +3,7 @@
 import { ClerkProvider, useAuth, SignedOut, RedirectToSignIn } from "@clerk/nextjs";
 import { ConvexProviderWithClerk } from "convex/react-clerk";
 import { Authenticated, AuthLoading, ConvexReactClient } from "convex/react";
-import LoadingLogo from "@/components/ui/shared/LoadingLogo";
+import LoadingLogo from "@/components/shared/LoadingLogo";
 
 type Props = {
   children: React.ReactNode;
